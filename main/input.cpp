@@ -1,5 +1,5 @@
 #include "main.h"
 
-void graphics(){
+void input(){
 
 }
